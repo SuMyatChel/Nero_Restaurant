@@ -1,0 +1,51 @@
+a{
+    text-decoration: none;
+    margin-right: 30px;
+    color: rgb(114, 37, 131);
+    font-style: bold;
+   
+
+}
+nav{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:rgb(208, 178, 250);
+    height: 45px;
+    padding-top: 20px;
+    padding-left: 25px;
+    
+
+}
+body{
+    background-color: rgb(201, 134, 255);
+    font-size: large;
+    
+}
+
+
+img{
+    margin: 20px;
+    border-radius: 100px;
+    
+}
+.container{
+    margin-left: 10px;
+    margin-right: 55px;
+}
+aside{
+    width: 35%;
+    background-color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    float: right;
+    padding-left: 35px;
+    
+}
+footer{
+    height: 40px;
+    text-align: center;
+    background-color: rgb(223, 193, 246);
+    padding-top: 25px;
+    
+
+}
+    
